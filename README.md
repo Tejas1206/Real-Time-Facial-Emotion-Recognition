@@ -1,2 +1,2 @@
 # Facial-Emotion-Recognition
-Facial emotion recognition using Tensorflow and Opencv
+The Facial Emotion Recognition project harnesses cutting-edge machine learning and computer vision technologies to identify human emotions through facial expressions in real time. This innovative system is capable of recognizing a wide range of emotions, providing invaluable insights for applications in various fields including security, interactive gaming, customer service, and mental health assessment.
