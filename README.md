@@ -3,3 +3,5 @@ The Facial Emotion Recognition project harnesses cutting-edge machine learning a
 <br>
 <br>
 **Dataset** : https://drive.google.com/file/d/1NmRysBb7Cqt1hE8RKDkOsvZnpbjCYIv2/view?usp=sharing
+
+**Saved model** : https://drive.google.com/file/d/1KSJhac1QiA6SIxBfFunwXV9p0xRLnfuJ/view?usp=drive_link
